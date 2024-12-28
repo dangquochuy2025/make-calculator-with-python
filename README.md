@@ -1,4 +1,4 @@
-# Advanced Calculator
+# Calculator By dangquochuy2025
 
 This project is an advanced calculator built using Python and the Tkinter library. The calculator supports both basic arithmetic operations and advanced mathematical functions, making it versatile and user-friendly.
 
