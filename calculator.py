@@ -5,7 +5,7 @@ class Calculator:
     def __init__(self, root):
         self.root = root
         self.root.title("Calculator_By_dangquochuy2025")
-        self.root.geometry("500x750")
+        self.root.geometry("500x500")
         
         # Entry to show calculations
         self.display = tk.Entry(self.root, font=("Arial", 24), borderwidth=2, relief="solid", justify="right")
